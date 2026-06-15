@@ -10,6 +10,13 @@ This public repository only hosts Sireon macOS downloads. The application source
 
 https://github.com/JunZhaoNathan/sireon-downloads/releases/latest
 
+当前最新版：
+
+- Sireon 1.8.6
+- 发布页：https://github.com/JunZhaoNathan/sireon-downloads/releases/tag/v1.8.6
+- DMG：https://github.com/JunZhaoNathan/sireon-downloads/releases/download/v1.8.6/Sireon-1.8.6-macOS-arm64.dmg
+- SHA256：`5514ce8938fa394ce8965381777ed65183851c94ed23c1667a2b84b3491d3c56`
+
 下载文件通常名为：
 
 ```text
