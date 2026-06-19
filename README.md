@@ -15,7 +15,8 @@ https://github.com/JunZhaoNathan/sireon-downloads/releases/latest
 - Sireon 1.8.7
 - 发布页：https://github.com/JunZhaoNathan/sireon-downloads/releases/tag/v1.8.7
 - DMG：https://github.com/JunZhaoNathan/sireon-downloads/releases/download/v1.8.7/Sireon-1.8.7-macOS-arm64.dmg
-- SHA256：`171477599d43dca9701555cf850f0d84264cfa0805cb1661c234a592ef2aa463`
+- SHA256：`f09570103c72c4f24e5ee64aec3569e6c299fb2e960c89c1fec06087bae6f820`
+- 构建时间：2026-06-19 21:55 +0800，基于最新私有源码重新打包。
 
 下载文件通常名为：
 
