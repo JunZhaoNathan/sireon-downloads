@@ -12,11 +12,11 @@ https://github.com/JunZhaoNathan/sireon-downloads/releases/latest
 
 当前最新版：
 
-- Sireon 1.8.7
-- 发布页：https://github.com/JunZhaoNathan/sireon-downloads/releases/tag/v1.8.7
-- DMG：https://github.com/JunZhaoNathan/sireon-downloads/releases/download/v1.8.7/Sireon-1.8.7-macOS-arm64.dmg
-- SHA256：`ea152f5b7eb29d042e42741924b1ab7eaecb6187d783a750e35d8b688135770e`
-- 构建时间：2026-06-19 22:56 +0800，加入常驻 AI 计划审查上下文、结构 Diff、透明依据和空白启动入口后重新打包。
+- Sireon 1.8.8
+- 发布页：https://github.com/JunZhaoNathan/sireon-downloads/releases/tag/v1.8.8
+- DMG：https://github.com/JunZhaoNathan/sireon-downloads/releases/download/v1.8.8/Sireon-1.8.8-macOS-arm64.dmg
+- SHA256：`74c8c1a15268d91f8cf4bf69e0cd4c98042c6c4e2f7877da918a1b6767842a4e`
+- 构建时间：2026-06-20 15:31 +0800，加入 Sireon Workbench 设计系统优化后重新打包。
 
 下载文件通常名为：
 
