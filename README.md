@@ -12,11 +12,11 @@ https://github.com/JunZhaoNathan/sireon-downloads/releases/latest
 
 当前最新版：
 
-- Sireon 1.8.9
-- 发布页：https://github.com/JunZhaoNathan/sireon-downloads/releases/tag/v1.8.9
-- DMG：https://github.com/JunZhaoNathan/sireon-downloads/releases/download/v1.8.9/Sireon-1.8.9-macOS-arm64.dmg
-- SHA256：`3ae9a15d92632522060601d73efdd94ead6940191b6c41ee5746845c5bffd210`
-- 构建时间：2026-06-20 16:06 +0800，加入 Workbench 设计 token 收敛后重新打包。
+- Sireon 1.8.10
+- 发布页：https://github.com/JunZhaoNathan/sireon-downloads/releases/tag/v1.8.10
+- DMG：https://github.com/JunZhaoNathan/sireon-downloads/releases/download/v1.8.10/Sireon-1.8.10-macOS-arm64.dmg
+- SHA256：`dbe48532b9c67c2639cc8b76d211c4425effe06de9acbb116db52297cefba7e9`
+- 构建时间：2026-06-20 16:53 +0800，加入 AI 主控台滚动性能优化后重新打包。
 
 下载文件通常名为：
 
